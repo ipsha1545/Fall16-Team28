@@ -1,5 +1,4 @@
 FROM elasticsearch:5
-MAINTAINER mishra.akshay91@gmail.com
 
 ####### TAKE BACKUP OF DEFAULT ES CONFIG FILE #######
 
