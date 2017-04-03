@@ -1,5 +1,4 @@
 FROM debian:wheezy
-MAINTAINER mishra.akshay91@gmail.com
 
 ######## ADD REQUIRED NGINX PACKAGES AND FETCH KEYS #########
 RUN echo "deb http://nginx.org/packages/debian/ wheezy nginx" >> /etc/apt/sources.list.d/nginx.list
